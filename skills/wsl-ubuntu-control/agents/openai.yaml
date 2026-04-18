@@ -1,0 +1,7 @@
+interface:
+  display_name: "WSL Ubuntu Control"
+  short_description: "Operate local Ubuntu or WSL from Windows."
+  default_prompt: "Use $wsl-ubuntu-control to run commands or manage files in a local Ubuntu WSL environment."
+
+policy:
+  allow_implicit_invocation: true
